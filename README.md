@@ -1,5 +1,5 @@
 # Constructive Criticism-CLI
-Coding can get stressful, especially when you get errors Stack Overflow isn't there to save the day. Our revolutionary software eliminates all stress by insulting you instead of giving you that dreaded error message. Happy Coding!
+Coding can get stressful, especially when you get errors that even Stack Overflow can't solve. Our revolutionary software eliminates all stress by insulting you instead of giving you that dreaded error message. Happy Coding!
 *******************************************************************************************************************************************************************************
 # Instructions
 1. Download the code
